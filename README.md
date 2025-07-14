@@ -3,7 +3,7 @@ HPC exam project at Unimore \
 C implementation of AES 128 Electronic Codebook mode of operation, parallelized with OpenMP and CUDA
 
 ## Requirements
-matplotlib python package
+matplotlib python package \
 cuda enabled environment (Jetson Nano)
 
 ## Run and generate graph results
