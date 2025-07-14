@@ -25,3 +25,4 @@ for i in "${filedim[@]}";
 do
 	get_stat $i;
 done
+python3 ./test.py
