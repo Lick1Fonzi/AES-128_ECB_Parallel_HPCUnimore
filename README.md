@@ -10,4 +10,4 @@ cuda enabled environment (Jetson Nano)
 ```
 ./xstat.sh
 ```
-Script that compiles, executes, and generates graph png
+Script that compiles, executes, and generates graph png, takes up to 5 mins
